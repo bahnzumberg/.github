@@ -1,4 +1,6 @@
-# Bahn zum Berg
+# .github
+
+Bahn zum Berg
 
 Der Verein "Bahn zum Berg" fördert die Anreise mit öffentlichen Verkehrsmitteln zu Outdooraktivitäten. Wir betreiben ein paar Webportale, darunter auch Zuugle, dessen Sourcecode hier als public repositories abrufbar sind. Mitarbeit ist herzlich willkommen!
 
