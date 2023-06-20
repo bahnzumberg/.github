@@ -1,9 +1,8 @@
 # Bahn zum Berg
 
-Der Verein "Bahn zum Berg" fördert die Anreise mit öffentlichen Verkehrsmitteln zu Outdooraktivitäten. Wir betreiben ein paar Webportale, darunter auch Zuugle, dessen Sourcecode hier als public repositories abrufbar sind. Mitarbeit ist herzlich willkommen!
+The non profit organisation "Bahn zum Berg" wants to help to protect the sensitive environment of the Alps. We are supporting this goal by making hikes visible, which can be reached with public transportation. 
 
-Infos über den Verein: www.bahnzumberg.at
++ We do this with the help of mountain-lovers who write about their hikes at www.bahn-zum-berg.at and www.bahn-zum-berg.de.
++ We power a search engine for hikes, which can be reached with public transportation: Zuugle. www.zuugle.at, www.zuugle.de and soon www.zuugle.si
 
-Öffi-Tourenportal: www.bahn-zum-berg.at und www.bahn-zum-berg.de
-
-Öffi-Bergtourensuchmaschine: www.zuugle.at und www.zuugle.de
+Please visit the Homepage of our NPO "Bahn zum Berg": www.bahnzumberg.at and support us on Github!
