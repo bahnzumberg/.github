@@ -22,10 +22,8 @@ Unser Tourenportal ist die erste Anlaufstelle für über 90 Tourenreporter:innen
 
 „Zuugle“ ist unsere Öffi-Bergtouren-Suchmaschine, die alle Alpenregionen in Österreich, Bayern, Slowenien, Italien, der Schweiz und Frankreich abdeckt. Sie ermöglicht es Nutzer:innen, gezielt nach Touren zu suchen, die mit Bahn und Bus erreichbar sind.
 
-* **Frontend:** `Javascript` / `REACT`
+* **Backend & Frontend** `Node.js` / `Javascript` / `REACT`
     * **Public Repository:** [bahnzumberg/zuugle-suchseite](https://github.com/bahnzumberg/zuugle-suchseite)
-* **Backend:** `Node.js`
-    * **Public Repository:** [bahnzumberg/zuugle-api](https://github.com/bahnzumberg/zuugle-api)
 
 Wir freuen uns über Vorschläge, Bug-Reports und Pull-Requests in unseren öffentlichen Repositories!
 
